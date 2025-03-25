@@ -8,7 +8,6 @@ def funcao():
     alpha =input("Digite uma letra de c a e: ")
     if alpha == "c": #precisaconferir
         print(d, c)
-    if alpha == "d":#ta errado, arruma depois.
     if alpha == 'd':
         print(d)
     else:
