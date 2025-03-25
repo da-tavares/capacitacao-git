@@ -8,7 +8,7 @@ def funcao():
     alpha =input("Digite uma letra de c a e: ")
     if alpha == "c":
         print(d, c)
-    if alpha == "d":
+    if alpha == "d":#ta errado, arruma depois.
         print(d)
     else:
         print(e)
