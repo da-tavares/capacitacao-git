@@ -1,3 +1,5 @@
 c = "o gabriel é meu parceiro"
 
-print(c)
+d = "Um dois tres"
+
+print(d, c)
