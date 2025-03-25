@@ -21,4 +21,4 @@ def funcao():
         print(e)
 
 if __name__ == '__main__':
-     capacitacao = funcao()   
+    funcao()   
